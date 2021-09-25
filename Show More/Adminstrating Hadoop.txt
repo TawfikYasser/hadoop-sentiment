@@ -10,3 +10,5 @@ sudo wget https://raw.githubusercontent.com/TawfikYasser/hadoop-sentiment/main/S
 hdfs dfs -ls /
 hdfs dfs -mkdir /Hadoop_Sentiment
 hdfs dfs -copyFromLocal /usr/Hadoop_Sentiment/bucket_hs.txt /Hadoop_Sentiment
+
+Next: Hive, IntelliJ
