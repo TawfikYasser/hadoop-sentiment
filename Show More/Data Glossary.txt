@@ -1,0 +1,21 @@
+2017-09-03^3^-10.9%^34.87%^AVQVGZNVQMLGSOJE6EUY^B00ZV9PXP2^Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016)^Too small^I thought it would be as big as small paper but turn out to be just like my palm. I think it is too small to read on it... not very comfortable as regular Kindle. Would definitely recommend a paperwhite instead.^NEGATIVE_REVIEW
+
+1. 2017-09-03 => Review date
+
+2. 3 => Review Rate
+
+3. -10.9% => Sentiment Polarity
+
+4. 34.87% => Sentiment Subjectivity
+
+5. AVQVGZNVQMLGSOJE6EUY => Product ID
+
+6. B00ZV9PXP2 => Product ASIN
+
+7. Amazon Kindle E-Reader 6" Wifi (8th Generation, 2016) => Product Name 
+
+8. Too small => Review Title 
+
+9. I thought it would be as big as small paper but turn out to be just like my palm. I think it is too small to read on it... not very comfortable as regular Kindle. Would definitely recommend a paperwhite instead. => Review Text 
+
+10. NEGATIVE_REVIEW => Sentiment Feedback
