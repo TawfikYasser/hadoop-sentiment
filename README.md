@@ -1,2 +1,2 @@
-# hadoop-sentiment (Working on ...)
-A Big Data Project using [Hadoop - Hive - Sentiment Analysis - Amazon Products Reviews - Talend - Power BI - Python]
+# Big Data Project using Hive & Hadoop & Sentiment Analysis (Working on ...)
+![IMAGE](https://github.com/TawfikYasser/hadoop-sentiment/blob/main/Show%20More/Big%20Data%20Project.png)
