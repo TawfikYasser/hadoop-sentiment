@@ -1,0 +1,15 @@
+cd /usr/local/hadoop/sbin
+./start-dfs.sh
+./start-yarn.sh
+jps
+---------------------------------------
+http://tawfik-virtualbox:8088/cluster
+http://localhost:9870/explorer.html#/
+---------------------------------------
+su - hudser
+sudo mkdir Hadoop_Sentiment
+sudo wget https://raw.githubusercontent.com/TawfikYasser/hadoop-sentiment/main/Show%20More/bucket_hs.txt
+--------------------------------------------------------------------------------------------------------
+hdfs dfs -ls /
+hdfs dfs -mkdir /Hadoop_Sentiment
+hdfs dfs -copyFromLocal /usr/Hadoop_Sentiment/bucket_hs.txt /Hadoop_Sentiment
